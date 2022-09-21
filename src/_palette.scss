@@ -1,0 +1,114 @@
+
+// Color Palette
+// Stanford Identity Guide: https://identity.stanford.edu/design-elements/color/
+// Using Color: https://identity.stanford.edu/design-elements/color/using-color/
+// ------------------------------------------------------------------------------------------
+
+
+// Primary Colors
+// Link: https://identity.stanford.edu/design-elements/color/primary-colors/
+$cardinal:            #8C1515;
+$cardinal_light:      #B83A4B;
+$cardinal_dark:       #820000;
+$stanford_white:      #FFFFFF;
+$stanford_cool_grey:  #53565A;
+$stanford_black:      #2E2D29;
+$stanford_black_90:   #43423E;
+$stanford_black_80:   #585754;
+$stanford_black_70:   #6D6C69;
+$stanford_black_60:   #767674;
+$stanford_black_50:   #979694;
+$stanford_black_40:   #ABABA9;
+$stanford_black_30:   #C0C0BF;
+$stanford_black_20:   #D5D5D4;
+$stanford_black_10:   #EAEAEA;
+
+
+
+// Web Interactive Colors
+// Link: https://identity.stanford.edu/design-elements/color/web/
+$digital_blue:        #006CB8; // For links
+$digital_blue_dark:   #00548f; // For links in hover/focus states
+$digital_blue_light:  #6FC3FF; // For links on dark backgrounds
+$digital_red:         #B1040E;
+$digital_red_dark:    #820000;
+$digital_red_light:   #E50808;
+
+
+//Accent Colors
+// Link: https://identity.stanford.edu/design-elements/color/accent-colors/
+$palo_alto:       #175e54;
+$palo_alto_dark:  #014240;
+$palo_alto_light: #2D716F;
+
+$palo_verde:      #279989;
+$palo_verde_dark: #017E7C;
+$palo_verde_light:#59B3A9;
+
+$sky:       #4298B5;
+$sky_dark:  #016895;
+$sky_light: #67AFD2;
+
+$lagunita:        #007C92;
+$lagunita_dark:   #006B81;
+$lagunita_light:  #009AB4;
+
+$bay:         #6FA287;
+$bay_dark:    #417865;
+$bay_light:   #8AB8A7;
+
+$brick:       #651C32;
+$brick_dark:  #42081B;
+$brick_light: #7F2D48;
+
+$plum:        #620059;
+$plum_dark:   #350D36;
+$plum_light:  #734675;
+
+$archway:       #5D4B3C;
+$archway_dark:  #2F2424;
+$archway_light:  #766253;
+
+$stone:       #7F7776;
+$stone_dark:  #544948;
+$stone_light: #F4F4F4;
+
+$fog:         #DAD7CB;
+$fog_dark:    #B6B1A9;
+$fog_light:   #F4F4F4;
+
+$spirited:        #E04F39;
+$spirited_dark:   #C74632;
+$spirited_light:  #F4795B;
+
+$poppy:       #e98300;
+$poppy_dark:  #D1660F;
+$poppy_light: #F9A44A;
+
+$illuminating:      #FEDD5C;
+$illuminating_dark: #FEC51D;
+$illuminating_light:#FFE781;
+
+$olive:       #8F993E;
+$olive_dark:  #7A863B;
+$olive_light: #A6B168;
+
+$sage:       rgb(199, 209, 197);  // Deprecated
+$redwood:    rgb(141, 60, 30);    // Deprecated
+$mint:       rgb(0,155,118);      // Deprecated
+
+
+// Common color names, mapped to closest Stanford-equivalent colors
+$blue:    $lagunita;
+$indigo:  $plum_light;
+$purple:  $plum_light;
+$pink:    $plum_light;
+$red:     $digital_red;
+$orange:  $poppy;
+$yellow:  $illuminating;
+$green:   $palo_alto;
+$teal:    $lagunita;
+$cyan:    $sky;
+$white:   $stanford_white;
+$off_white : $stanford_black_10;
+$beige:   $fog;
