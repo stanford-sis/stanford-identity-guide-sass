@@ -16,7 +16,7 @@
   "author": "georgebuilds <george@georgebuilds.com>",
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "@stanford-sis/registry": "https://npm.pkg.github.com/"
   },
   "bugs": {
     "url": "https://github.com/stanford-sis/stanford-identity-guide-sass/issues"
