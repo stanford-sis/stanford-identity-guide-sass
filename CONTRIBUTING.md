@@ -1,1 +1,1 @@
-Just submit the merge request buddy
+Just submit the pull request buddy

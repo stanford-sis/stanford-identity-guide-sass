@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Color palette from Stanford's Identity Guide, as a set of SCSS variables",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "repository": {
     "type": "git",
