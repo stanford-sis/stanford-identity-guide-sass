@@ -1,6 +1,6 @@
 {
   "name": "@stanford-sis/stanford-identity-guide-sass",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Color palette from Stanford's Identity Guide, as a set of SCSS variables",
   "scripts": {
     "test": "echo \"No test specified\""
